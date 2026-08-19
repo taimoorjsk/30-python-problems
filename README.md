@@ -1,4 +1,4 @@
-# Module 8 — Python Programming Problems
+# 30 Python Programming Problems
 
 A collection of 30 Python solutions covering string manipulation, array processing, validation logic, cryptography, number theory, pattern generation, and interactive programs.
 
